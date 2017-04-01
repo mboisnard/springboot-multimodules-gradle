@@ -1,0 +1,8 @@
+apply plugin: 'org.springframework.boot'
+
+dependencies {
+    compile project(':spring-user')
+    compile project(':spring-car')
+
+    compile 'org.springframework.boot:spring-boot-starter-actuator'
+}

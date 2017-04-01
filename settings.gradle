@@ -1,0 +1,5 @@
+rootProject.name = 'Multimodule Spring Boot'
+
+include 'spring-api'
+include 'spring-user'
+include 'spring-car'
