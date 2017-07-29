@@ -1,4 +1,4 @@
-rootProject.name = 'Multimodule Spring Boot'
+rootProject.name = 'Multimodules Spring Boot'
 
 include 'spring-api'
 include 'spring-user'
